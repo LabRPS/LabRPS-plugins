@@ -1,4 +1,3 @@
-
 [submodule "windLab"]
 	path = windLab
 	url = https://github.com/kfdani/windLab.git
