@@ -1,0 +1,9 @@
+﻿Your plugin descriptions
+
+PluginFileName: correlationErgodicityPlugin
+PluginName: correlationErgodicityPlugin
+RandomPhenomenon: Wind Velocity
+PluginReleaseDate: 25/08/2023
+PluginAuthors: LabRPS Team
+PluginVersion: 1.0
+PluginDescription: This plugin computes and compared the simulated correlation to the target one

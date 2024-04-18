@@ -1,0 +1,9 @@
+﻿Your plugin descriptions
+
+PluginFileName: pdfCheckToolPlugin
+PluginName: pdfCheckToolPlugin
+RandomPhenomenon: Wind Velocity
+PluginReleaseDate: 24/11/2022
+PluginAuthors: LabRPS Team
+PluginVersion: 1.0
+PluginDescription: This plugin allows the user to check the probability density of the simulated wind velocity.

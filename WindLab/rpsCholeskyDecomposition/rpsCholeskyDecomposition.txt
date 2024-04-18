@@ -1,0 +1,9 @@
+﻿Your plugin descriptions
+
+PluginFileName: rpsCholeskyDecomposition
+PluginName: rpsCholeskyDecomposition
+RandomPhenomenon: Wind Velocity
+PluginReleaseDate: 25/08/2023
+PluginAuthors: LabRPS Team
+PluginVersion: 1.0
+PluginDescription: This plugin offters a cholesky decomposition tool for matrices
