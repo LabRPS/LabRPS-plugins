@@ -1,14 +1,15 @@
 ﻿Your plugin descriptions
 
-__PluginFileName__: WindLabPlugin
-__PluginName__: WindLabPlugin
-__RandomPhenomenon__: Wind Velocity
-__PluginReleaseDate__: 25/08/2023
-__PluginAuthors__: LabRPS Team
-__PluginVersion__: 1.0
-__PluginDescription__: This plugin adds a series of functionalities to LabRPS
-__Web__: Web
-__Wiki__: https://github.com/LabRPS/LabRPS-plugins/tree/master/WindLab/WindLabPlugin
-__Files__: Files
-__date__: date
-__icon__: icon
+__PluginFileName__ = "WindLabPlugin"
+__Name__ = "Export Fem"
+__PluginName__ = "WindLabPlugin"
+__RandomPhenomenon__ = "Wind Velocity"
+__PluginReleaseDate__ = "25/08/2023"
+__PluginAuthors__ = "LabRPS Team"
+__PluginVersion__  = "1.0"
+__PluginDescription__ = "This plugin adds a series of functionalities to LabRPS"
+__Web__ = "Web"
+__Wiki__ = "https://github.com/LabRPS/LabRPS-plugins/tree/master/WindLab/WindLabPlugin"
+__Files__ = "Files"
+__date__ = "date"
+__icon__ = "icon"
