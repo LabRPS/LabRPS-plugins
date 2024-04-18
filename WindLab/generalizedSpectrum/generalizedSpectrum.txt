@@ -1,9 +1,13 @@
-﻿Your plugin descriptions
-
-PluginFileName: generalizedSpectrum
-PluginName: generalizedSpectrum
-RandomPhenomenon: Wind Velocity
-PluginReleaseDate: 25/08/2023
-PluginAuthors: LabRPS Team
-PluginVersion: 1.0
-PluginDescription: This plugin computes
+﻿__Name__ = "GeneralizedSpectrum"
+__Comment__ = "This plugin allows the user to compute variable spectrum models in their generalized form"
+__License__ = "LGPL v 2.1"
+__Web__ = ""
+__Wiki__ = "https://wiki.labrps.com/Plugin_Generalized_Spectrum"
+__Icon__  = ""
+__Help__ = ""
+__Author__ ="Koffi Daniel"
+__Version__= "0.1.0"
+__Status__ = ""
+__Requires__ = ""
+__Files__ = ""
+__Date__ = '25-08-2023'

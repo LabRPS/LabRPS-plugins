@@ -2,7 +2,7 @@
 __Comment__ = "This plugin adds a series of functionalities to LabRPS"
 __License__ = "LGPL v 2.1"
 __Web__ = ""
-__Wiki__ = "https://github.com/LabRPS/LabRPS-plugins/tree/master/WindLab/WindLabPlugin"
+__Wiki__ = "https://wiki.labrps.com/Plugin_WindLab"
 __Icon__  = ""
 __Help__ = ""
 __Author__ ="Koffi Daniel"

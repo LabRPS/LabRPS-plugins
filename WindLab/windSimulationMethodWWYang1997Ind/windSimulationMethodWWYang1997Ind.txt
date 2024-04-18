@@ -1,9 +1,23 @@
 ﻿Your plugin descriptions
 
-PluginFileName: windSimulationMethodWWYang1997Ind
+PluginFileName: WindSimulationMethodWWYang1997Ind
 PluginName: windSimulationMethodWWYang1997Ind
 RandomPhenomenon: Wind Velocity
 PluginReleaseDate: 25/08/2023
 PluginAuthors: LabRPS Team
 PluginVersion: 1.0
 PluginDescription: This plugin adds
+
+__Name__ = "windSimulationMethodWWYang1997Ind"
+__Comment__ = "This plugin implements the simulation method according to WW. Yang 1997"
+__License__ = "LGPL v 2.1"
+__Web__ = ""
+__Wiki__ = "https://wiki.labrps.com/Plugin_Simulation_Method_WWYang_1997_Ind"
+__Icon__  = ""
+__Help__ = ""
+__Author__ ="Koffi Daniel"
+__Version__= "0.1.0"
+__Status__ = ""
+__Requires__ = ""
+__Files__ = ""
+__Date__ = '25-08-2023'
