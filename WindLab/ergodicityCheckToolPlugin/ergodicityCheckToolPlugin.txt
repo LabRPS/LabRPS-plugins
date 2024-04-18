@@ -1,9 +1,14 @@
 ﻿Your plugin descriptions
 
-PluginFileName: ergodicityCheckToolPlugin
-PluginName: ergodicityCheckToolPlugin
-RandomPhenomenon: Wind Velocity
-PluginReleaseDate: 25/08/2023
-PluginAuthors: LabRPS Team
-PluginVersion: 1.0
-PluginDescription: This plugin computes and compares the simulated psd and correlation against the targeted ones to prove ergodicity
+__PluginFileName__: ergodicityCheckToolPlugin
+__PluginName__: ergodicityCheckToolPlugin
+__RandomPhenomenon__: Wind Velocity
+__PluginReleaseDate__: 25/08/2023
+__PluginAuthors__: LabRPS Team
+__PluginVersion__: 1.0
+__PluginDescription__: This plugin computes and compares the simulated psd and correlation against the targeted ones to prove ergodicity
+__Web__: Web
+__Wiki__: Wiki
+__Files__: Files
+__date__: date
+__icon__: icon
