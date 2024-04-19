@@ -9,5 +9,5 @@ __Author__ ="Koffi Daniel"
 __Version__= "0.1.0"
 __Status__ = ""
 __Requires__ = ""
-__Files__ = ""
+__Files__ = "RPSRandomnessProviders.dll"
 __Date__ = '25-08-2023'
