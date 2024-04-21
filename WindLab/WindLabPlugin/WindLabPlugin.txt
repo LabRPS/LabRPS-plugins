@@ -1,4 +1,8 @@
-﻿__Name__ = "WindLabPlugin"
+﻿# -*- coding: utf-8 -*-
+# (c) Koffi Daniel 2023
+
+
+__Name__ = "WindLabPlugin"
 __Comment__ = "This plugin adds a series of functionalities to LabRPS"
 __License__ = "LGPL v 2.1"
 __Web__ = ""

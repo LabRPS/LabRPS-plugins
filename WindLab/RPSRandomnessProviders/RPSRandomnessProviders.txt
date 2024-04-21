@@ -1,4 +1,7 @@
-﻿__Name__ = "RPSRandomnessProviders"
+﻿# -*- coding: utf-8 -*-
+# (c) Koffi Daniel 2023
+
+__Name__ = "RPSRandomnessProviders"
 __Comment__ = "This plugin adds a series of randomness providers to LabRPS."
 __License__ = "LGPL v 2.1"
 __Web__ = ""

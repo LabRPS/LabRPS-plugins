@@ -1,4 +1,7 @@
-﻿__Name__ = "ErgodicityCheckToolPlugin"
+﻿# -*- coding: utf-8 -*-
+# (c) Koffi Daniel 2023
+
+__Name__ = "ErgodicityCheckToolPlugin"
 __Comment__ = "This plugin computes and compares the simulated psd and correlation against the targeted ones to prove ergodicity"
 __License__ = "LGPL v 2.1"
 __Web__ = ""

@@ -1,4 +1,7 @@
-﻿__Name__ = "RPSCholeskyDecomposition"
+﻿# -*- coding: utf-8 -*-
+# (c) Koffi Daniel 2023
+
+__Name__ = "RPSCholeskyDecomposition"
 __Comment__ = "This plugin offters a cholesky decomposition tool for matrices."
 __License__ = "LGPL v 2.1"
 __Web__ = ""

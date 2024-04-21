@@ -1,4 +1,7 @@
-﻿__Name__ = "PDFCheckToolPlugin"
+﻿# -*- coding: utf-8 -*-
+# (c) Koffi Daniel 2023
+
+__Name__ = "PDFCheckToolPlugin"
 __Comment__ = "This plugin allows the user to check the probability density of the simulated wind velocity."
 __License__ = "LGPL v 2.1"
 __Web__ = ""

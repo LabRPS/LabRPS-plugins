@@ -1,4 +1,7 @@
-﻿__Name__ = "WindSimulationMethodWWYang1997"
+﻿# -*- coding: utf-8 -*-
+# (c) Koffi Daniel 2023
+
+__Name__ = "WindSimulationMethodWWYang1997"
 __Comment__ = "This plugin implements the simulation method according to WW. Yang 1997"
 __License__ = "LGPL v 2.1"
 __Web__ = ""
